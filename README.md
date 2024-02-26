@@ -28,3 +28,10 @@ To run BookValley locally, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/bookvalley.git
+```
+
+## Navigate to the project directory:
+```bash
+cd bookvalley
+```
+
