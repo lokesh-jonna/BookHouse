@@ -16,8 +16,8 @@ BookValley is a web-based bookstore where users can browse and purchase books. T
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Getting Started
