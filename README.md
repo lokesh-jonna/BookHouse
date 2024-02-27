@@ -1,4 +1,4 @@
-# BookValley Bookstore
+# BookValley
 
 Welcome to BookValley, an online bookstore developed using HTML, CSS, and JavaScript.
 
