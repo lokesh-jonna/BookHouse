@@ -35,5 +35,5 @@ git clone https://github.com/your-username/bookvalley.git
 cd bookvalley
 ```
 
-Feel free to use this and clone it to your repository
+Feel free to use this.
 
