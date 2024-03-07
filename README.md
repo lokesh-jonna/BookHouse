@@ -27,13 +27,14 @@ To run BookHouse locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/lokesh-jonna/bookHouse.git
+git clone https://github.com/lokesh-jonna/BookHouse.git
 ```
 
 ## Navigate to the project directory:
 ```bash
-cd bookhouse
+cd BookHouse
 ```
-
+## LIve
+Visit [https://books-in-house.netlify.app/]
 Feel free to use this.
 
